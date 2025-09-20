@@ -12,32 +12,41 @@
 ## 📌 About Me
 - Hi! I’m Manisha, a passionate developer with a keen interest in web development, C programming , data visualization.
 - Projects:
-<h1 style="text-align:center; color:#1f2937; margin-bottom:40px;">My Projects</h1>
+<h1 style="text-align:center; color:#1e40af; margin-bottom:40px; font-size:2.5em;">🚀 My Projects</h1>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; max-width:1000px; margin:0 auto;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:25px; max-width:1100px; margin:0 auto;">
 
-  <div style="background-color:#fff; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); padding:20px; transition: transform 0.3s, box-shadow 0.3s;" 
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
-    <h2 style="color:#111827; margin-top:0;">Hospital Management System</h2>
-    <p style="color:#4b5563; line-height:1.5;">Developed a system to manage patient records, appointments, and bed availability, improving hospital efficiency.</p>
-    <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: C, SQL</p>
+  <!-- Project 1 -->
+  <div style="background: linear-gradient(135deg, #fef9c3, #fcd34d); border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); padding:25px; transition: transform 0.3s, box-shadow 0.3s;" 
+       onmouseover="this.style.transform='translateY(-7px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.25)';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.15)';">
+    <h2 style="color:#b45309; margin-top:0;">🏥 Hospital Management System</h2>
+    <p style="color:#4b5563; line-height:1.6;">Developed a system to manage patient records, appointments, and bed availability, improving hospital efficiency.</p>
+    <p style="margin-top:10px; font-style:italic; color:#7c3aed;">Technologies: C, SQL</p>
+    <a href="#" style="display:inline-block; margin-top:15px; text-decoration:none; background:#1e3a8a; color:#fff; padding:8px 15px; border-radius:8px; transition: background 0.3s;"
+       onmouseover="this.style.background='#2563eb';" onmouseout="this.style.background='#1e3a8a';">View Project</a>
   </div>
 
-  <div style="background-color:#fff; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); padding:20px; transition: transform 0.3s, box-shadow 0.3s;"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
-    <h2 style="color:#111827; margin-top:0;">Food Delivery Website</h2>
-    <p style="color:#4b5563; line-height:1.5;">Created a responsive website for ordering and tracking food deliveries with real-time updates and smooth UX.</p>
+  <!-- Project 2 -->
+  <div style="background: linear-gradient(135deg, #dbeafe, #93c5fd); border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); padding:25px; transition: transform 0.3s, box-shadow 0.3s;" 
+       onmouseover="this.style.transform='translateY(-7px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.25)';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.15)';">
+    <h2 style="color:#1e40af; margin-top:0;">🍔 Food Delivery Website</h2>
+    <p style="color:#4b5563; line-height:1.6;">Created a responsive website for ordering and tracking food deliveries with real-time updates and smooth UX.</p>
     <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: HTML, CSS, JavaScript</p>
+    <a href="#" style="display:inline-block; margin-top:15px; text-decoration:none; background:#1e3a8a; color:#fff; padding:8px 15px; border-radius:8px; transition: background 0.3s;"
+       onmouseover="this.style.background='#2563eb';" onmouseout="this.style.background='#1e3a8a';">View Project</a>
   </div>
 
-  <div style="background-color:#fff; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); padding:20px; transition: transform 0.3s, box-shadow 0.3s;"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
-    <h2 style="color:#111827; margin-top:0;">AI Chatbot for Waste Management</h2>
-    <p style="color:#4b5563; line-height:1.5;">Built an AI-powered chatbot to monitor waste and provide suggestions, increasing community awareness and engagement.</p>
-    <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: Python, NLP</p>
+  <!-- Project 3 -->
+  <div style="background: linear-gradient(135deg, #d1fae5, #34d399); border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); padding:25px; transition: transform 0.3s, box-shadow 0.3s;" 
+       onmouseover="this.style.transform='translateY(-7px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.25)';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.15)';">
+    <h2 style="color:#065f46; margin-top:0;">🤖 AI Chatbot for Waste Management</h2>
+    <p style="color:#4b5563; line-height:1.6;">Built an AI-powered chatbot to monitor waste and provide suggestions, increasing community awareness and engagement.</p>
+    <p style="margin-top:10px; font-style:italic; color:#047857;">Technologies: Python, NLP</p>
+    <a href="#" style="display:inline-block; margin-top:15px; text-decoration:none; background:#065f46; color:#fff; padding:8px 15px; border-radius:8px; transition: background 0.3s;"
+       onmouseover="this.style.background='#10b981';" onmouseout="this.style.background='#065f46';">View Project</a>
   </div>
 
 </div>
