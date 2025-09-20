@@ -27,8 +27,8 @@
     <p style="color:#4b5563; line-height:1.6;">Developed a system to manage patient records, appointments, and bed availability, improving hospital efficiency.</p>
     <p style="margin-top:10px; font-style:italic; color:#7c3aed;">Technologies: C, SQL</p>
     <a href="#" style="display:inline-block; margin-top:15px; text-decoration:none; background:#1e3a8a; color:#fff; padding:8px 15px; border-radius:8px; transition: background 0.3s;"
-       onmouseover="this.style.background='#2563eb';" onmouseout="this.style.background='#1e3a8a';">View Project</a>
-  </div>
+       onmouseover="this.style.background='#2563eb';" </a>
+    </div>
 
   <!-- Project 2 -->
   <div style="background: linear-gradient(135deg, #dbeafe, #93c5fd); border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); padding:25px; transition: transform 0.3s, box-shadow 0.3s;" 
@@ -38,7 +38,7 @@
     <p style="color:#4b5563; line-height:1.6;">Created a responsive website for ordering and tracking food deliveries with real-time updates and smooth UX.</p>
     <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: HTML, CSS, JavaScript</p>
     <a href="#" style="display:inline-block; margin-top:15px; text-decoration:none; background:#1e3a8a; color:#fff; padding:8px 15px; border-radius:8px; transition: background 0.3s;"
-       onmouseover="this.style.background='#2563eb';" onmouseout="this.style.background='#1e3a8a';">View Project</a>
+       onmouseover="this.style.background='#2563eb';"</a>
   </div>
 
   <!-- Project 3 -->
@@ -49,7 +49,7 @@
     <p style="color:#4b5563; line-height:1.6;">Built an AI-powered chatbot to monitor waste and provide suggestions, increasing community awareness and engagement.</p>
     <p style="margin-top:10px; font-style:italic; color:#047857;">Technologies: Python, NLP</p>
     <a href="#" style="display:inline-block; margin-top:15px; text-decoration:none; background:#065f46; color:#fff; padding:8px 15px; border-radius:8px; transition: background 0.3s;"
-       onmouseover="this.style.background='#10b981';" onmouseout="this.style.background='#065f46';">View Project</a>
+       onmouseover="this.style.background='#10b981';" </a>
   </div>
 
 </div>
