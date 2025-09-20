@@ -1,11 +1,4 @@
-<body style="
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e') no-repeat center center fixed;
-  background-size: cover;
-  color: #fff;
-  margin:0;
-  padding:20px;
-">
+
 
 
 
