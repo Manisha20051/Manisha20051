@@ -10,11 +10,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi! I’m Manisha, a passionate developer with a keen interest in web development, C programming,data visualization.
+- Hi! I’m Manisha, a passionate developer with a keen interest in web development, C programming , data visualization.
 - Projects:
 - 1. Hospital Management System
 - Developed a comprehensive system to manage patient records, appointments, and bed availability.
-- Implemented efficient data handling and streamlined workflows using [technologies you used, e.g., C/Java/SQL].
+- Implemented efficient data handling and streamlined workflows using technologies HTML,Tailwind CSS,PHP,SQL.
 - Improved hospital operational efficiency through automation of key administrative tasks.
 - 2. Food Delivery Website
 - Built a fully functional website for ordering and tracking food deliveries using HTML, CSS, and JavaScript.
@@ -56,8 +56,6 @@
 
 ## 💬 Quote
 > "Building code, shaping ideas, and leaving a digital footprint."
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
