@@ -22,15 +22,25 @@
     <h2 style="color:#111827; margin-top:0;">Hospital Management System</h2>
     <p style="color:#4b5563; line-height:1.5;">Developed a system to manage patient records, appointments, and bed availability, improving hospital efficiency.</p>
     <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: C, SQL</p>
-  </div>istrative tasks.
-- 2. Food Delivery Website
-- Built a fully functional website for ordering and tracking food deliveries using HTML, CSS, and JavaScript.
-- Designed responsive UI/UX for seamless customer experience.
-- Integrated features for real-time menu updates and order management.
-- 3. AI Chatbot for Waste Management
-- Created an AI-powered chatbot to monitor and provide suggestions for waste reduction.
-- Utilized natural language processing and logic-based algorithms for intelligent responses.
-- Enabled community engagement and awareness through automated, interactive support.
+  </div>
+
+  <div style="background-color:#fff; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); padding:20px; transition: transform 0.3s, box-shadow 0.3s;"
+       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
+    <h2 style="color:#111827; margin-top:0;">Food Delivery Website</h2>
+    <p style="color:#4b5563; line-height:1.5;">Created a responsive website for ordering and tracking food deliveries with real-time updates and smooth UX.</p>
+    <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: HTML, CSS, JavaScript</p>
+  </div>
+
+  <div style="background-color:#fff; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); padding:20px; transition: transform 0.3s, box-shadow 0.3s;"
+       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
+    <h2 style="color:#111827; margin-top:0;">AI Chatbot for Waste Management</h2>
+    <p style="color:#4b5563; line-height:1.5;">Built an AI-powered chatbot to monitor waste and provide suggestions, increasing community awareness and engagement.</p>
+    <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: Python, NLP</p>
+  </div>
+
+</div>
 
 
 ## 🧠 My Focus Areas
