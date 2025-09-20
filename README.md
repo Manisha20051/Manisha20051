@@ -12,10 +12,17 @@
 ## 📌 About Me
 - Hi! I’m Manisha, a passionate developer with a keen interest in web development, C programming , data visualization.
 - Projects:
-- 1. Hospital Management System
-- Developed a comprehensive system to manage patient records, appointments, and bed availability.
-- Implemented efficient data handling and streamlined workflows using technologies HTML,Tailwind CSS,PHP,SQL.
-- Improved hospital operational efficiency through automation of key administrative tasks.
+<h1 style="text-align:center; color:#1f2937; margin-bottom:40px;">My Projects</h1>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; max-width:1000px; margin:0 auto;">
+
+  <div style="background-color:#fff; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); padding:20px; transition: transform 0.3s, box-shadow 0.3s;" 
+       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
+    <h2 style="color:#111827; margin-top:0;">Hospital Management System</h2>
+    <p style="color:#4b5563; line-height:1.5;">Developed a system to manage patient records, appointments, and bed availability, improving hospital efficiency.</p>
+    <p style="margin-top:10px; font-style:italic; color:#2563eb;">Technologies: C, SQL</p>
+  </div>istrative tasks.
 - 2. Food Delivery Website
 - Built a fully functional website for ordering and tracking food deliveries using HTML, CSS, and JavaScript.
 - Designed responsive UI/UX for seamless customer experience.
