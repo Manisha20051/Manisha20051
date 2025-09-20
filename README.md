@@ -1,19 +1,65 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Manisha</h1>
+<h3 align="center">Aspiring software engineer</h3>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Manisha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishaabhi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishaabhi068@gmail.com) 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Manisha20051">
+    <img src="https://komarev.com/ghpvc/?username=Manisha20051&label=Profile%20views&color=00FFFF&style=flat-square" alt="Manisha20051's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Hi! I’m Manisha, a passionate developer with a keen interest in web development, C programming,data visualization.
+- Projects:
+- 1. Hospital Management System
+- Developed a comprehensive system to manage patient records, appointments, and bed availability.
+- Implemented efficient data handling and streamlined workflows using [technologies you used, e.g., C/Java/SQL].
+- Improved hospital operational efficiency through automation of key administrative tasks.
+- 2. Food Delivery Website
+- Built a fully functional website for ordering and tracking food deliveries using HTML, CSS, and JavaScript.
+- Designed responsive UI/UX for seamless customer experience.
+- Integrated features for real-time menu updates and order management.
+- 3. AI Chatbot for Waste Management
+- Created an AI-powered chatbot to monitor and provide suggestions for waste reduction.
+- Utilized natural language processing and logic-based algorithms for intelligent responses.
+- Enabled community engagement and awareness through automated, interactive support.
 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manisha2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manisha2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+## 🧠 My Focus Areas
+- Web Development
+- Data Analyst
 
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manisha20051&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Manisha20051's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Manisha20051&theme=radical&hide_border=true&cache_seconds=86400" alt="Manisha20051's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manisha20051&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manisha's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Manisha20051&theme=radical&radius=10" alt="Manisha20051's Activity Graph" />
+</p>
 
 
+## 🛠️ Languages & Tools
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha20051&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/manishaabhi/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Manisha's LinkedIn"/></a> <a href="mailto:manishaabhi068@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Manisha's Email"/></a></p>
+
+## 💬 Quote
+> "Building code, shaping ideas, and leaving a digital footprint."
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
