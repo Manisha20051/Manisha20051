@@ -11,7 +11,6 @@
 
 ## 📌 About Me
 - Hi! I’m Manisha, a passionate developer with a keen interest in web development, C programming , data visualization.
-- Projects:
 <h1 style="text-align:center; color:#1e40af; margin-bottom:40px; font-size:2.5em;">🚀 My Projects</h1>
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:25px; max-width:1100px; margin:0 auto;">
